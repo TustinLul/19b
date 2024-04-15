@@ -1,0 +1,39 @@
+/* Background */
+body {
+    background-color: darkolivegreen;
+
+}
+
+/* H4 */
+h4 {
+    color: darkseagreen;
+
+}
+
+/* img */
+img {
+height: 300px;
+width: 100%;
+object-fit: cover;
+}
+
+/* Lists */
+ul {
+color: darkseagreen;
+
+}
+
+ol {
+color: darkseagreen;
+
+}
+
+/* Buttons */
+button {
+    border-radius: 15px;
+    background: darkseagreen;
+    margin: auto;
+    padding: 20px;
+    
+    
+}
